@@ -3,7 +3,7 @@
 	import type { MovieListResult } from "$lib/type";
 
 	export let movies: MovieListResult[];
-	export let next: string | null;
+	// export let next: string | null;
 </script>
 
 <div class="results">
